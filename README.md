@@ -10,7 +10,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/nicebin73">
-        <img src="https://user-images.githubusercontent.com/53969142/149289437-801ef64c-e237-48dc-bb75-5274bf4a57fc.png" width="150px;" alt=""/>
+        <img src="https://user-images.githubusercontent.com/53969142/149289493-f4be37d2-9b75-43ed-beb9-052a6d07f71b.jpg" width="150px;" alt=""/>
         <br />
         <sub>✌ 임형빈(nicebin)</sub>
       </a>
@@ -38,7 +38,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/tmddnjs6000">
-        <img src="https://user-images.githubusercontent.com/53969142/149289437-801ef64c-e237-48dc-bb75-5274bf4a57fc.png" width="150px;" alt=""/>
+        <img src="https://user-images.githubusercontent.com/53969142/149289493-f4be37d2-9b75-43ed-beb9-052a6d07f71b.jpg" width="150px;" alt=""/>
         <br />
         <sub>👦 배승원(bsw)</sub>
       </a>
