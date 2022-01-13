@@ -12,14 +12,14 @@
       <a href="https://github.com/nicebin73">
         <img src="https://user-images.githubusercontent.com/53969142/149289493-f4be37d2-9b75-43ed-beb9-052a6d07f71b.jpg" width="150px;" alt=""/>
         <br />
-        <sub>✌ 임형빈(nicebin)</sub>
+        <sub>👦 임형빈(nicebin)</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Jimmykang1210">
         <img src="https://user-images.githubusercontent.com/53969142/149289493-f4be37d2-9b75-43ed-beb9-052a6d07f71b.jpg" width="150px;" alt=""/>
         <br />
-        <sub>😎 강호진(jjw)</sub>
+        <sub>😎 강호진(khj)</sub>
       </a>
     </td>
     <td align="center">
