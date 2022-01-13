@@ -10,7 +10,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/nicebin73">
-        <img src="https://user-images.githubusercontent.com/53969142/149289437-801ef64c-e237-48dc-bb75-5274bf4a57fc.png" width="150px;" height="150" alt=""/>
+        <img src="https://user-images.githubusercontent.com/53969142/149289437-801ef64c-e237-48dc-bb75-5274bf4a57fc.png" width="150px;" alt=""/>
         <br />
         <sub>✌ 임형빈(nicebin)</sub>
       </a>
