@@ -1,3 +1,25 @@
+## 📌 Elastic Stack 2th CRUD 및 분석기 스터디
+
+### 회의시간
+
+- 18:00 ~ 21:00
+
+### 참석자
+
+- [김영민](https://github.com/ym1085), [강호진](https://github.com/Jimmykang1210), [정재우](https://github.com/JaeWoo-JJ), [임형빈](https://github.com/nicebin73)
+
+### 회의내용
+
+- 강사 : [강호진](https://github.com/Jimmykang1210) / [김영민](https://github.com/ym1085)
+
+### 내용
+
+- 인덱스 생성 및 기본 API
+- 역색인 의미와 RDBMS와 비교
+- 분석기 anlyzer 의 구성 (character filters => tokenizer => token filter
+- 데이터 CRUD API 및 기타 API 사용법
+- 실제 데이터를 통한 분석기, 토크나이저의 이해
+
 ## 📌 Elastic Stack
 
 ![https://user-images.githubusercontent.com/53969142/148395221-ce7cae37-b5de-46c1-9c9a-de58fa6722a8.PNG](https://user-images.githubusercontent.com/53969142/148395221-ce7cae37-b5de-46c1-9c9a-de58fa6722a8.PNG)

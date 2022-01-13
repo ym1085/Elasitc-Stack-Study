@@ -1,3 +1,27 @@
+## 📌 Elastic Stack 3th 검색 스터디
+
+## 회의시간
+
+- 19:00 ~ 21:00
+
+## 참석자
+
+- [김영민](https://github.com/ym1085), [강호진](https://github.com/Jimmykang1210), [정재우](https://github.com/JaeWoo-JJ), [배승원](https://github.com/orgs/funin0302/people/JaeWoo-JJ), [임형빈](https://github.com/nicebin73), 최현태
+
+## 회의내용
+
+- 강사 : [강호진](https://github.com/Jimmykang1210) / [김영민](https://github.com/ym1085)
+
+### 내용
+
+- ES 검색
+- 쿼리 컨텍스트 - 유사검색, 스코어링
+- 필터 컨텍스트 - 정확한 검색 결과, 스코어링 하지 않음
+- full text query와 term query의 차이점
+- multi_match query
+- range query
+- wildcard, regular expression query
+
 ## 🤷‍♂️ 엘라스틱 스택의 엘라스틱서치
 
 ![https://user-images.githubusercontent.com/53969142/148667204-608e4d80-4c71-43f3-87b8-ca3abf976966.jpg](https://user-images.githubusercontent.com/53969142/148667204-608e4d80-4c71-43f3-87b8-ca3abf976966.jpg)
@@ -287,13 +311,13 @@ Elasticsearch **5.x 버전 이전에는 TF-IDF** 알고리즘을 사용 했으�
 
 ## ✔ 리프 쿼리 - 전문 쿼리, 용어 수준 쿼리
 
-### 전문 쿼리
+### 전문 쿼리 ( Full text Query )
 
 전문 검색을 하기위해 사용이 된다.
 
 - **검색을 할 필드**는 인덱스 매핑 시 [텍스트 타입](https://esbook.kimjmin.net/07-settings-and-mappings/7.2-mappings/7.2.1#text)으로 매핑해야 한다.
 
-### 용어 수준 쿼리
+### 용어 수준 쿼리 ( Term Query )
 
 정확히 일치하는 용어를 찾기위해 사용이 된다.
 
