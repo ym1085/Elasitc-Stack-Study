@@ -1,15 +1,3 @@
----
-layout: single
-title: "[Elastic Stack] Elastic Stack Study 3th"
-date: "2022-01-09 17:55:18"
-categories: Elastic Stack
-tag: [Elastic Stack, Company Study, Searching]
-toc: true
-author_profile: true
-# sidebar:
-#   nav: "docs"
----
-
 ## 🤷‍♂️ 엘라스틱 스택의 엘라스틱서치
 
 ![https://user-images.githubusercontent.com/53969142/148667204-608e4d80-4c71-43f3-87b8-ca3abf976966.jpg](https://user-images.githubusercontent.com/53969142/148667204-608e4d80-4c71-43f3-87b8-ca3abf976966.jpg)

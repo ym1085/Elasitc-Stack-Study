@@ -1,15 +1,3 @@
----
-layout: single
-title: "[Elasticsearch] Elastic Stack Study 1th"
-date: "2022-01-04 02:08:43"
-categories: Elastic Stack
-tag: [Elastic Stack, Company Study]
-toc: true
-author_profile: true
-# sidebar:
-#   nav: "docs"
----
-
 ## 📌 1.1 엘라스틱서치의 탄생
 
 > 엘라스틱 서치가 처음 등장했을 때 어느 누구도 빅데이터 파이프라인을 구성하는  
