@@ -6,8 +6,45 @@
 
 ## 👨‍👨‍👦‍👦 참석자
 
-- 발표자: @ym1085 @Jimmykang1210
-- 인원: 7명
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/nicebin73">
+        <img src="https://user-images.githubusercontent.com/53969142/149289437-801ef64c-e237-48dc-bb75-5274bf4a57fc.png" width="150px;" height="150" alt=""/>
+        <br />
+        <sub>✌ 임형빈(nicebin)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Jimmykang1210">
+        <img src="https://user-images.githubusercontent.com/53969142/149289493-f4be37d2-9b75-43ed-beb9-052a6d07f71b.jpg" width="150px;" alt=""/>
+        <br />
+        <sub>😎 강호진(jjw)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ym1085">
+        <img src="https://user-images.githubusercontent.com/53969142/149285756-15703997-af29-456b-8cf3-6afd3b32afcf.jpg" width="150px;" alt=""/>
+        <br />
+        <sub>🚀 김영민(kym)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/DevJay24">
+        <img src="https://user-images.githubusercontent.com/53969142/149287394-499dc5f4-3824-42f8-b835-427b06b50b26.jpg" width="150px;" alt=""/>
+        <br />
+        <sub>🙏 정재우(jjw)</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/tmddnjs6000">
+        <img src="https://user-images.githubusercontent.com/53969142/149289437-801ef64c-e237-48dc-bb75-5274bf4a57fc.png" width="150px;" alt=""/>
+        <br />
+        <sub>👦 배승원(bsw)</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📋 스터디 방법
 
