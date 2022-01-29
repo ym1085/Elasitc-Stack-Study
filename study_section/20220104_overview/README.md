@@ -1,35 +1,3 @@
-## 📌 Elastic Stack 1th 개요
-
-### 회의시간
-
-- 19:00 ~ 21:00
-
-### 참석자
-
-- [강호진](https://github.com/Jimmykang1210), [배승원](https://github.com/orgs/funin0302/people/JaeWoo-JJ), [이은숙](https://github.com/funin0302), [정재우](https://github.com/JaeWoo-JJ), [임형빈](https://github.com/nicebin73), [김영민](https://github.com/ym1085), 최현태
-
-### 회의내용
-
-- 강사 : [강호진](https://github.com/Jimmykang1210) / [김영민](https://github.com/ym1085)
-
-### 내용
-
-- 빅데이터 의 구성 및 처리 개요
-- ES 기본 용어 및 설명
-- ELK 구성 및 설정
-
-### Q&A
-
-- Token 과 Term의 차이란?
-- 7.x 버전이후에 default shard 1이라고 하면 복구 프로세스는 어떻게 진행되는지?
-- keyword 타입과 text 타입의 차이점?
-- 역색인의 의미가 어떻게 되나요?
-- 시각화의 의미는? 왜 시각화가 잘되어 있는 것이 강점이 되는가?
-- 영속 큐 방식이란?
-- 로그가 10G, TB 단위로 점점 커진다면 ES에서는 어떻게 처리를 할 수 있을까?
-- 리플리카란 무엇인가?.
-- 샤드와 복제본은 다른 노드에 저장된다?
-
 ## 📌 1.1 엘라스틱서치의 탄생
 
 > 엘라스틱 서치가 처음 등장했을 때 어느 누구도 빅데이터 파이프라인을 구성하는  
