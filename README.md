@@ -4,6 +4,11 @@
 - 집계 파트까지 진행 후 실제 업무에서 사용이 되는 데이터를 사용하여 실습 진행한다.
 - 클러스터 및 노드, QueryDSL, Analyzer 등의 핵심 기능을 숙지한다.
 
+## 🍃 Blog & Book
+
+- [Blog](https://ym1085.github.io/tags/#company-study)
+- [Book](http://www.yes24.com/Product/Goods/103030516)
+
 ## 📋 How will we study?
 
 발표 리더는 조사해온 내용을 발표하고 질의 응답 시간을 갖는다.  
@@ -21,6 +26,6 @@
 
 - 매주 목요일 오후 18:30시 ~ 21시 00분
 
-## 🚀 Next Step
+## 💡 Next Step
 
-- <u>현재 사내 Elastic Stack Study가 종료되어 나머지 분량은 단독으로 진행한다.</u>
+- 현재 사내 Elastic Stack Study가 종료되어 나머지 분량은 단독으로 진행한다.
