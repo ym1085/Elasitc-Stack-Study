@@ -6,7 +6,7 @@
 
 ## 🍃 Blog & Book
 
-- [Blog](https://ym1085.github.io/tags/#company-study)
+- [Blog](https://ym1085.github.io/categories/elasticsearch)
 - [Book](http://www.yes24.com/Product/Goods/103030516)
 
 ## 📋 How will we study?
